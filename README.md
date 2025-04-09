@@ -11,8 +11,8 @@ This toolkit focuses on six key dimensions of data quality—**Accuracy**, **Com
 
 ## Contents
 
-1. **[Notebook](DataQualityChecker.ipynb)**: A hands-on guide with code samples for each data quality dimension.  
-2. **YouTube Video**: Covers the concepts and demos featured in the notebook.
+1. **[Notebook](DataQualityDimension.ipynb)**: A hands-on guide with code samples for each data quality dimension.  
+2. **[YouTube Video](https://youtu.be/1kpZQpoxCWI?si=xVSrskVEaV1UncY3)**: Covers the concepts and demos featured in the notebook.
 
 ---
 
@@ -38,10 +38,12 @@ You can install the external dependencies using:
 
 ```bash
 pip install pandas numpy
+```
 
 ## How to Use
 
 **Clone the Repository**:
-   ```bash
+```bash
    git clone https://github.com/david-ikenna-ezekiel/data-quality-toolkit.git
    cd your-repo-name
+
